@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Counter660/static/css/main.e6c13ad2.css",
+    "main.js": "/Counter660/static/js/main.0e85a6f4.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Counter660/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/Counter660/index.html",
+    "main.e6c13ad2.css.map": "/Counter660/static/css/main.e6c13ad2.css.map",
+    "main.0e85a6f4.js.map": "/Counter660/static/js/main.0e85a6f4.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Counter660/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e85a6f4.js"
+  ]
+}
